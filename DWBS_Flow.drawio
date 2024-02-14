@@ -1,9 +1,27 @@
-<mxfile host="app.diagrams.net" modified="2024-02-14T05:34:24.157Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" version="23.1.4" etag="vCQfALb4OFLf7lGvU6iN" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-14T05:39:50.956Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="v9illzxYwFgLQGv34g3q" version="23.1.4" type="github">
   <diagram name="Page-1" id="8lkOgYBBVr-acoQ930bs">
-    <mxGraphModel>
+    <mxGraphModel dx="574" dy="298" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="mVJZyha1NTzbn2H9YDEa-3" value="&lt;div style=&quot;&quot;&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#fff2cc;strokeColor=#d6b656;align=center;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="210" y="220" width="440" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="mVJZyha1NTzbn2H9YDEa-1" value="Wallet Provisioning Microservices XAPI" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="230" y="250" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mVJZyha1NTzbn2H9YDEa-2" value="GSP" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="500" y="265" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mVJZyha1NTzbn2H9YDEa-4" value="Account, Customer, Card, Session Data &amp;amp; Interdiction State data" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="235" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="mVJZyha1NTzbn2H9YDEa-5" value="" style="endArrow=classic;html=1;rounded=0;dashed=1;dashPattern=12 12;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;flowAnimation=1;orthogonalLoop=1;" edge="1" parent="1" source="mVJZyha1NTzbn2H9YDEa-2" target="mVJZyha1NTzbn2H9YDEa-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="110" y="450" as="sourcePoint" />
+            <mxPoint x="160" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
